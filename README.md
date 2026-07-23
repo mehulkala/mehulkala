@@ -36,7 +36,7 @@ A real-time chat application built using **React, Node.js, Express, MongoDB, Soc
 ---
 
 ### 📚 JEE Beyond Numbers
-A responsive educational platform built using **React and Express** for organizing and delivering mathematics resources for JEE aspirants.
+A responsive educational platform built using **React** for organizing and delivering mathematics resources for JEE aspirants.
 
 ---
 
